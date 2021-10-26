@@ -2,8 +2,6 @@
 
 import requests
 import os
-import configparser
-import pyperclip
 import re
 from bs4 import BeautifulSoup
 import datetime
